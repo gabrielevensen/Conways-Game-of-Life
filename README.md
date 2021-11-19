@@ -1,0 +1,2 @@
+# Conways-Game-of-Life
+implementation of Conway’s Game of Life. The project involves implementation of an algorithm, optimization of the code and parallelization with OpenMP. The report include a solution method which is describing the steps that were followed in order to get to the final solution. The experimental part of the project has help with decision making for optimization as well as analysing the performance of the implementations.
